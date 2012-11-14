@@ -1,15 +1,14 @@
 Nmap Email Scanner
 =============
-
-We use this library on GitHub when rendering your README or any other
-rich text file.
+This will give you the basics in order to get the scanner running. 
+Coding language = Linux Bash 
 
 Pre-Installation
 -----------
-	Install postfix for Email
+	run apt-get install postfix
+	run apt-get install nmap 
 	Edit nmapEmail.sh for your network settings, 
-		replace the words that are in all caps with your username and email, some of the files are blank, they will be built as it finds machines on your network. 
-
+		
 Installation
 -----------
 
